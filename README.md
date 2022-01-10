@@ -10,7 +10,10 @@
 
 ### Analysis of Stock Performance by Year
 
+#### 2017 Stock Performance
 ![Stock Performance 2017](Resources/Stock_Performance_2017.png)
+
+#### 2018 Stock Performance
 ![Stock Performance 2018](Resources/Stock_Performance_2018.png)
 
 We first looked at the performance of the stocks for 2017 and 2018. The first this we see is 2017 was a good year for the stocks overall. All but TERP were green. DQ, ENPH, FSLR, and SEDG all post over 100% return. However, 2018 was a bad year for these stocks. All but two, ENPH and RUN, were in the red. ENPH and RUN both had above 80% Returns. We then calculated the return over the two year period. We find the following: 
